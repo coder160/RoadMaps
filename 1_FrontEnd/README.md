@@ -7,6 +7,8 @@ Este repositorio tiene como propósito compartir mi avance en el **Roadmap de Fr
 
 Cada lección tendrá contenido adicional para una mayor comprensión.
 
+Este roadmap está basado en la guía sugerida por roadmap.sh, que proporciona una estructura completa y detallada para desarrolladores Frontend.
+
 
 ### Lecciones
 
